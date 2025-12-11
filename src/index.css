@@ -6,7 +6,8 @@
 }
 
 body {
-  @apply bg-dark text-white font-sans antialiased;
+  @apply bg-black;
+
 }
 
 html {
